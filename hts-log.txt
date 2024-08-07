@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 07 Aug 2024 14:40:09 at https://www.bewakoof.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.bewakoof.com/ -O1 "C:\Users\dayan\Downloads\jeeva and mansoor\taquish\bewawoof" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:40:17	Error: 	"Not Found" (404) at link https://www.bewakoof.com/https//www.googletagmanager.com (from https://www.bewakoof.com/)
+14:40:17	Error: 	"Not Found" (404) at link https://www.bewakoof.com/e,location.href (from https://www.bewakoof.com/)
+14:40:17	Error: 	"Not Found" (404) at link https://www.bewakoof.com/GET (from https://www.bewakoof.com/)
+14:40:17	Error: 	"Not Found" (404) at link https://www.bewakoof.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://www.bewakoof.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 16 links scanned, 11 files written (2880750 bytes overall) [900627 bytes received at 112578 bytes/sec], 3448708 bytes transferred using HTTP compression in 12 files, ratio 24%, 2.6 requests per connection
+(4 errors, 0 warnings, 0 messages)

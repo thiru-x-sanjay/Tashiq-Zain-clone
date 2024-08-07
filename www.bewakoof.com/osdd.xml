@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Bewakoof.com</ShortName>
+    <Tags>Bewakoof.com</Tags>
+    <Url type="text/html" rel="results" method="get" template="http://www.bewakoof.com/search/index">
+        <Param name="search_text" value="{searchTerms}"/>
+    </Url>
+    <!-- <Url type="application/x-suggestions+json" rel="results" method="GET" template="http://www.bewakoof.com/search/loadsearchtext">
+        <Param name="term" value="{searchTerms}"/>
+    </Url> -->
+    <Url type="text/html" template="http://www.google.com/search?q=site:bewakoof.com {searchTerms}"/>
+</OpenSearchDescription>

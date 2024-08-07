@@ -1,0 +1,24 @@
+{
+    "name": "Bewakoof.com",
+    "short_name":"Bewakoof.com",
+    "icons": [{
+        "src": "/logo_192_by_192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+    "prefer_related_applications": false,
+    "related_applications": [{
+        "platform": "play",
+        "url": "https://play.google.com/store/apps/details?id=com.bewakoof.bewakoof",
+        "id": "com.bewakoof.bewakoof"
+    },{
+        "platform": "itunes",
+        "url": "https://itunes.apple.com/in/app/bewakoof-online-shopping-app/id1100190514"
+    }],
+    "start_url": "/?utm_source=pwa_homescreen",
+    "background_color":"#ffffff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "gcm_sender_id": "618955247303",
+    "gcm_user_visible_only": true
+}
